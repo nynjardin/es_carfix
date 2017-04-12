@@ -1,5 +1,5 @@
 # Carfix
-PLayer have to pay for repair a vehicle.
+Player have to pay for repair a vehicle.
 
 # Todo #
 * Fix bug
